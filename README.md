@@ -5,7 +5,7 @@ Udacity Trivia is a quiz game. Users are able to:
 - View questions - both all questions and by category.
 - View categories.
 - Delete a question.
-- Add questions.
+- Add a question.
 - Search the questions database.
 - Play the quiz.
 
